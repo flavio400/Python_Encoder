@@ -1,0 +1,10 @@
+# this project only uses built-in python libraries
+# it is not necessary to install anything
+
+# urllib.parse  → built-in
+# html          → built-in (html.entities, html.parser)
+# base64        → built-in
+# codecs        → built-in
+# binascii      → built-in
+# unicodedata   → built-in
+# random        → built-in
